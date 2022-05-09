@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d32a04c7-dbc0-4245-9015-cda9a992e0f4": {
+      "ProjectGuid": "d32a04c7-dbc0-4245-9015-cda9a992e0f4",
+      "DisplayName": "Test (IFORT)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
